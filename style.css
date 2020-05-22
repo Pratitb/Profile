@@ -177,7 +177,7 @@ nav a:hover {
 }
 
 h1 {
-  text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
+  text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2);
 }
 #about h1 span {
   color: #343a40;
